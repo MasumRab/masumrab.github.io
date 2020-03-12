@@ -30,12 +30,10 @@ twitter_username: CriticalMaz
 github_username:  MasumRab
 
 # Build settings
-theme: minima
+theme: leonids
+  #minima
 plugins:
   - jekyll-feed
-
-- name: fastpages: An easy to use blogging platform with support for Jupyter Notebooks.
-    uses: fastai/fastpages@v2.1.5
 
 
 
