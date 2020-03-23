@@ -64,3 +64,8 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
+gems:
+- jekyll-paginate
+
+paginate: 10
+paginate_path: /page:num/
